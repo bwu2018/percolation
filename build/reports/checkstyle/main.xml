@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.2">
+<file name="/Users/shadowaxis9000/Downloads/percolation-bwu2018/src/main/java/InteractivePercolationVisualizer.java">
+</file>
+<file name="/Users/shadowaxis9000/Downloads/percolation-bwu2018/src/main/java/Library.java">
+</file>
+<file name="/Users/shadowaxis9000/Downloads/percolation-bwu2018/src/main/java/Percolation.java">
+<error line="92" column="52" severity="error" message="&apos;,&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCheck"/>
+<error line="98" severity="error" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+<file name="/Users/shadowaxis9000/Downloads/percolation-bwu2018/src/main/java/PercolationStats.java">
+<error line="93" column="12" severity="error" message="The local variable &apos;N&apos; must start with a lowercase letter and use camelCase." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="94" column="12" severity="error" message="The local variable &apos;T&apos; must start with a lowercase letter and use camelCase." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/Users/shadowaxis9000/Downloads/percolation-bwu2018/src/main/java/PercolationVisualizer.java">
+<error line="19" column="1" severity="error" message="Do not import &apos;java.awt.Font&apos; in this course." source="com.puppycrawl.tools.checkstyle.checks.imports.IllegalImportCheck"/>
+</file>
+</checkstyle>
